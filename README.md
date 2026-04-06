@@ -130,3 +130,4 @@ Et ajouter dans `pom.xml` :
 | Base de données | H2 (dev) / PostgreSQL (prod) |
 | Frontend | React 18, React Router 6, Axios |
 | Style | CSS-in-JS custom, Google Fonts (Syne + DM Sans) |
+"# frontproject" 
